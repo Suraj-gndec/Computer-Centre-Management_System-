@@ -13,3 +13,9 @@ We are use VB.NET for backend and MYSQL for Database
 #Login Page Img
 <img width="980" height="624" alt="image" src="https://github.com/user-attachments/assets/751a2b83-31fb-481d-93ab-28f55030b14d" />
 
+
+# Add Students Deatils Form
+
+
+![Uploading image.png…]()
+
