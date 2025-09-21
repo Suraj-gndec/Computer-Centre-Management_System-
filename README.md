@@ -14,8 +14,8 @@ We are use VB.NET for backend and MYSQL for Database
 <img width="980" height="624" alt="image" src="https://github.com/user-attachments/assets/751a2b83-31fb-481d-93ab-28f55030b14d" />
 
 
-# Add Students Deatils Form
+#Add Students Deatils Form
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee8b1971-fad2-4d03-beed-bbe0c09737f1" />
 
-![Uploading image.png…]()
 
