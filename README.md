@@ -21,3 +21,6 @@ We are use VB.NET for backend and MYSQL for Database
 
 #Student Deatils
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2532aba9-dfbd-4cb3-b3a9-5ba5c403d028" />
+
+#attendance entry
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0e85298-0f18-47c8-9931-e3a6caf4855e" />
