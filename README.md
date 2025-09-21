@@ -19,3 +19,5 @@ We are use VB.NET for backend and MYSQL for Database
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee8b1971-fad2-4d03-beed-bbe0c09737f1" />
 
 
+#Student Deatils
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2532aba9-dfbd-4cb3-b3a9-5ba5c403d028" />
