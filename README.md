@@ -24,3 +24,7 @@ We are use VB.NET for backend and MYSQL for Database
 
 #attendance entry
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0e85298-0f18-47c8-9931-e3a6caf4855e" />
+
+#view Attendance 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad8c7974-39ea-44d1-9606-5e31d0d3d8b1" />
+
