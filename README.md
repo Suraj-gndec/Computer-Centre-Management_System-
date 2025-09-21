@@ -2,6 +2,7 @@
 💻 A modern system to efficiently manage computer center operations — including ADD,EDIT,DELETE,PRINT,SEARCH Students Deatils, monitoring, and reporting. Built for performance and ease of use.
 
 We Are Built a VB.NET Window Application Software 
+We are use VB.NET for backend and MYSQL for Database
 1. Admin Can Login
 2. Admin Add Students,update,delete,and search by student unique id
 3. Than Show All Students Deatils in Next Window
